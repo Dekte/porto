@@ -1,0 +1,7 @@
+{
+  "name": "PopStudio - Video & Graphic Portfolio",
+  "description": "Portofolio neo-brutalist pop untuk video editor dan desainer grafis. Showcase video portrait 9:16 & 4:3 dan landscape 16:9 dengan viewer interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
