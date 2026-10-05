@@ -188,7 +188,7 @@ export const config: PortfolioConfig = {
     badge: "LET'S CREATE TOGETHER",
     title: "Mulai Kolaborasi",
     subtitle: "Punya ide proyek video, kampanye brand baru, atau butuh jasa editing vidio secara cepat dan mudah? hubungi saya secepatnya ya!.",
-    email: "jobfordekte@gmail.com",
+    email: "dictazaki@gmail.com",
     emailLabel: "Email Resmi",
     copyEmailLabel: "Salin Email",
     copiedEmailLabel: "Email Tersalin!",
