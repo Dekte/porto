@@ -80,7 +80,7 @@ export const config: PortfolioConfig = {
     tiltDegrees: 2.5,
 
     // Kontak & lokasi umum
-    email: "jobfordekte@gmail.com",
+    email: "dictazaki@gmail.com",
     location: "Blitar, Jawa Timur, Indonesia",
 
     // Teks berjalan di marquee pemisah antara Hero dan Karya (kosongkan "" untuk menonaktifkan)
