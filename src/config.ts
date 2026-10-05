@@ -261,7 +261,7 @@ export const config: PortfolioConfig = {
   // ------------------------------------------------------------------
   links: [
     { label: "Instagram", url: "https://instagram.com/separuh_manusiaa", icon: "instagram" },
-    { label: "TikTok", url: "https://tiktok.com/editor_blitar", icon: "tiktok" },
+    { label: "TikTok", url: "https://tiktok.com/@editor_blitar", icon: "tiktok" },
     { label: "Email", url: "mailto:dictazaki@gmail.com", icon: "email" },
     { label: "WhatsApp", url: "https://wa.me/6285608885755", icon: "message-circle" },
   ],
